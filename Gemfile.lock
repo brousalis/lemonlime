@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    peteshow (0.7.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  peteshow!
