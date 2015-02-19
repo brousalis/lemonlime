@@ -1,14 +1,16 @@
 PATH
   remote: .
   specs:
-    peteshow (0.7.2)
+    lemonlime (0.0.1)
+      sprite-factory (~> 1.6.2)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    sprite-factory (1.6.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  peteshow!
+  lemonlime!
