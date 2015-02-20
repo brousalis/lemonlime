@@ -2,11 +2,13 @@ PATH
   remote: .
   specs:
     lemonlime (0.0.1)
+      paintbucket (~> 0)
       sprite-factory (~> 1.6.2)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    paintbucket (0.0.4)
     sprite-factory (1.6.2)
 
 PLATFORMS
